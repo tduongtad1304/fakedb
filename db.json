@@ -1,25 +1,25 @@
 {
     "films": [
         {
-            "id": 1,
+            "id": "1",
             "title": "The Shawshank Redemption",
             "description": "Lorem ipsum amet",
             "isFavourite": false
         },
         {
-            "id": 2,
+            "id": "2",
             "title": "The Godfather",
             "description": "Lorem ipsum amet",
             "isFavourite": false
         },
         {
-            "id": 3,
+            "id": "3",
             "title": "The Godfather: Part II",
             "description": "Lorem ipsum amet",
             "isFavourite": false
         },
         {
-            "id": 4,
+            "id": "4",
             "title": "The Dark Knight",
             "description": "Lorem ipsum amet",
             "isFavourite": false
